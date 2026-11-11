@@ -15,6 +15,8 @@ I love art and technology, but every project I build keeps the user in mind, mak
 
 It also features a fun interactive colour-guessing game where visitors can test their knowledge by selecting colours and discovering the answers.
 
+https://karobia-bit.github.io/the-art-of-us/
+
 ---
 
 *Learning, creating, and finding beauty in the details.*
