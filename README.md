@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Wendy Wanjiru Karobia 🌷
 
-<!--
-**karobia-bit/karobia-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student, philocalist, and creative thinker with a love for art, design, and technology.
 
-Here are some ideas to get you started:
+I love art and technology, but every project I build keeps the user in mind, making things not just beautiful, but easy, useful, and welcoming for people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Exploring
+- 🎓 Studying Computer Science
+- 🎨 Passionate about art, creativity, and visual storytelling
+- 💻 Exploring front-end development
+- ✦ Aspiring UI/UX Designer
+
+### Featured Project
+**The Art of Us** — An interactive digital museum exploring the history of art and the fascinating ways colours interact, complement one another, and shape visual experiences and also shows the impact of art in society.
+
+It also features a fun interactive colour-guessing game where visitors can test their knowledge by selecting colours and discovering the answers.
+
+---
+
+*Learning, creating, and finding beauty in the details.*
